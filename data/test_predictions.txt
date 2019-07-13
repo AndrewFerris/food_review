@@ -1,0 +1,42 @@
+Review	Predictions	Confidence of Positive (1)
+There was a warm feeling with the service and I felt like their guest for a special treat.	1	0.9267366849132375
+An extensive menu provides lots of options for breakfast.	1	0.5588919228555813
+I always order from the vegetarian menu during dinner, which has a wide array of options to choose from.	0	0.3131272840801199
+I have watched their prices inflate, portions get smaller and management attitudes grow rapidly!	1	0.961884143623687
+Wonderful lil tapas and the ambience made me feel all warm and fuzzy inside.	1	0.9801198760885833
+I got to enjoy the seafood salad, with a fabulous vinegrette.	0	0.17557532373444878
+The wontons were thin, not thick and chewy, almost melt in your mouth.	0	0.4103140892456718
+Level 5 spicy was perfect, where spice didn't over-whelm the soup.	0	0.2662252080488948
+We were sat right on time and our server from the get go was FANTASTIC!	1	0.9356897688711006
+Main thing I didn't enjoy is that the crowd is of older crowd, around mid 30s and up.	1	0.9601998742348041
+When I'm on this side of town, this will definitely be a spot I'll hit up again!	1	0.571154997303588
+I had to wait over 30 minutes to get my drink and longer to get 2 arepas.	0	0.14135547788002778
+This is a GREAT place to eat!	0	0.16349827284579327
+The jalapeno bacon is soooo good.	1	0.8259390883893538
+The service was poor and thats being nice.	0	0.11080274116681552
+Food was good, service was good, Prices were good.	0	0.15458623781847275
+The place was not clean and the food oh so stale!	1	0.7179441757769099
+The chicken dishes are OK, the beef is like shoe leather.	0	0.17316000128856301
+But the service was beyond bad.	0	0.3241258728902579
+"I'm so happy to be here!!!"""	0	0.43316575482913156
+Tasted like dirt.	0	0.249202820392372
+One of the few places in Phoenix that I would definately go back to again .	1	0.7871050976379358
+The block was amazing.	1	0.7280306296811629
+It's close to my house, it's low-key, non-fancy, affordable prices, good food.	1	0.854932766943981
+* Both the Hot & Sour & the Egg Flower Soups were absolutely 5 Stars!	1	0.5714129795052706
+My sashimi was poor quality being soggy and tasteless.	1	0.8942834370027358
+Great time - family dinner on a Sunday night.	0	0.15105771822415207
+"the food is not tasty at all, not to say its ""real traditional Hunan style""."	1	0.9969063606143154
+What did bother me, was the slow service.	0	0.03585715169189131
+The flair bartenders are absolutely amazing!	0	0.11475392471221255
+Their frozen margaritas are WAY too sugary for my taste.	1	0.6965538526080328
+These were so good we ordered them twice.	0	0.21957667887033902
+So in a nutshell: 1) The restaraunt smells like a combination of a dirty fish market and a sewer.	1	0.7410718109117256
+My girlfriend's veal was very bad.	0	0.18858400601142294
+Unfortunately, it was not good.	1	0.6541122512106287
+I had a pretty satifying experience.	1	0.6798737545290198
+Join the club and get awesome offers via email.	1	0.9131016169218474
+Perfect for someone (me) who only likes beer ice cold, or in this case, even colder.	0	0.15346520256824314
+Bland and flavorless is a good way of describing the barely tepid meat.	1	0.9231947554112842
+The chains, which I'm no fan of, beat this place easily.	0	0.2115190042509745
+The nachos are a MUST HAVE!	1	0.7142355309484929
